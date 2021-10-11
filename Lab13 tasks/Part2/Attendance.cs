@@ -16,7 +16,7 @@ namespace Part2
         public static void Event()
         {
             Not += DisplayMessage;
-            var studList = new List<string>() {"Ihor", "Adam", "Steven", "Methew"};
+            var studList = new List<string>() {"Ihor", "Adam", "Steven", "Methew", "Asanali"};
             foreach (var student in studList)
             {
                 if (student == "Steven" || student == "Mathew")

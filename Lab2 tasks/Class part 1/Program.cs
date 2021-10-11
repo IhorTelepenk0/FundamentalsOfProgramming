@@ -54,9 +54,9 @@ namespace Class_part_1
 
         public static bool Exercise3()
         {
-            Console.WriteLine("enter the first number");
+            Console.WriteLine("Enter the first number");
             double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("enter the second number");
+            Console.WriteLine("Enter the second number");
             double b = Convert.ToDouble(Console.ReadLine());
 
             if (a < 0 && b > 0)
@@ -78,9 +78,9 @@ namespace Class_part_1
             double a = Convert.ToDouble(Console.ReadLine());
 
             if (a >= 20 && a <= 100)
-                Console.WriteLine("the number is between 20 and 100");
+                Console.WriteLine("The number is between 20 and 100");
             else
-                Console.WriteLine("the number is not between 20 and 100");
+                Console.WriteLine("The number is not between 20 and 100");
         }
 
         public static void Exercise5()
