@@ -19,12 +19,12 @@ namespace Part2
     {
         public void EmergencyCalling()
         {
-            Console.WriteLine("the Emergency");
+            Console.WriteLine("The Emergency");
         }
 
         public void LandVehicleCalling()
         {
-            Console.WriteLine("the vehical info");
+            Console.WriteLine("The vehical info");
         }
     }
 }
